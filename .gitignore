@@ -1,0 +1,10 @@
+# IDE files
+.vscode
+.idea
+
+# Package manager files
+.vessel
+.mops
+
+# Wasm output directory
+/build.mops
